@@ -8,8 +8,8 @@ pageextension 50100 VenderLedgerEntriesKP extends "Vendor Ledger Entries"
             {
                 ApplicationArea = All;
                 ToolTip = 'VAT Registration No.';
+                CaptionML = ENU = 'VAT Registration No.', DAN = 'SE/CVR-nr.';
             }
         }
     }
-
 }
