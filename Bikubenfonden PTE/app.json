@@ -2,7 +2,7 @@
   "id": "e66bea45-23c1-4c51-a44b-e307c8494cee",
   "name": "Bikubenfonden PTE",
   "publisher": "Knowledge Partner",
-  "version": "1.0.0.0",
+  "version": "1.2.0.0",
   "brief": "",
   "description": "",
   "privacyStatement": "",
@@ -10,7 +10,14 @@
   "help": "",
   "url": "",
   "logo": "",
-  "dependencies": [],
+  "dependencies": [
+    {
+      "id": "14340ba6-5934-4145-8e14-dbf1846fef80",
+      "name": "Continia Payment Management",
+      "publisher": "Continia Software",
+      "version": "6.0.0.0"
+    }
+  ],
   "screenshots": [],
   "platform": "1.0.0.0",
   "application": "22.0.0.0",
