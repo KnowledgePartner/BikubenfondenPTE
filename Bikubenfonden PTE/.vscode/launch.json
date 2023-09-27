@@ -6,7 +6,7 @@
             "type": "al",
             "request": "launch",
             "environmentType": "Sandbox",
-            "environmentName": "sandbox",
+            "environmentName": "RLA_Sandbox_06092023",
             "startupObjectId": 22,
             "breakOnError": "All",
             "breakOnRecordWrite": "None",
@@ -15,7 +15,7 @@
             "enableLongRunningSqlStatements": true,
             "longRunningSqlStatementsThreshold": 500,
             "numberOfSqlStatements": 10,
-            "tenant": "cb9b9fd7-de65-415b-896c-5af4dbf45e28"
+            "tenant": "38bd1cc3-88e1-4ca6-a82f-419be31bc0fc"
         }
     ]
 }
